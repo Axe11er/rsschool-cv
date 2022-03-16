@@ -5,22 +5,18 @@
 33 years old
 
 ### contacts
-===
 - discord No4#4877
 - telegram https://t.me/Axe11er
-===
 
 ### skills
 
-===
 - basic html/css
 - basic js
 - basic react
-===
 
 ### code example
 
 `console.log('hello world')`
 
-===
 *i want to be a frontend dev~*
+---
