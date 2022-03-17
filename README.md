@@ -1,1 +1,1 @@
-# rsschool-cv
+https://axe11er.github.io/rsschool-cv/
