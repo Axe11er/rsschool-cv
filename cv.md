@@ -2,7 +2,7 @@
 
 **Alexander Naumov**
 ---
-33 years old
+34 years old
 
 ### contacts
 - discord No4#4877
@@ -10,13 +10,15 @@
 
 ### skills
 
-- basic html/css
-- basic js
+- html/css
+- js
+- basic typescript
 - basic react
+- basic node.js
 
 ### code example
 
 `console.log('hello world')`
 
 ---
-*i want to be a frontend dev*
+*i want to be a frontend developer*
