@@ -1,0 +1,44 @@
+body {
+   font-size: 18px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin: 0;
+   background: linear-gradient(
+      -45deg,
+      black 20%,
+      tomato 20%,
+      tomato 65%,
+      cornflowerblue 65%
+   );
+   height: 100vh;
+}
+
+.cv__container {
+   display: flex;
+   min-height: 400px;
+}
+
+.cv__photo {
+   margin-right: 50px;
+   width: 250px;
+   border-radius: 0% 2% 2% 0%;
+   background: url('./8WqWVBieflM.jpg') no-repeat;
+   background-size: cover;
+}
+
+.cv__profile {
+   padding: 15px;
+   border-radius: 2%;
+   background-color: aliceblue;
+}
+
+p {
+   padding: 0;
+   margin: 0;
+}
+
+h2 {
+   font-size: 22px;
+   margin-bottom: 5px;
+   padding-left: 5px;
+   background-color: tomato;
+}
